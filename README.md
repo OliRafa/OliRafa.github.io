@@ -1,2 +1,4 @@
 # OliRafa.github.io
-A simple blog for my work.
+Under construction.
+
+Contact me at Rafaop.19@gmail.com
