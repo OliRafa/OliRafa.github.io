@@ -29,6 +29,10 @@ url: "https://olirafa.github.io" # the base hostname & protocol for your site, e
 #twitter_username: jekyllrb
 github_username:  OliRafa
 
+author:
+  name: Rafael Augusto de Oliveira
+  picture: images/profile.png
+
 # Build settings
 #theme: minima
 #theme: jekyll-theme-basically-basic
@@ -36,6 +40,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
 
+search: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
