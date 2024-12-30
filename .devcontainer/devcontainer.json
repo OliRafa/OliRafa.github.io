@@ -1,0 +1,38 @@
+{
+    "name": "OliRafa.github.io",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "workspaceFolder": "/workspace",
+    "workspaceMount": "source=/home/jarvis/Documents/OliRafa.github.io,target=/workspace,type=bind,consistency=cached",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "editor.bracketPairColorization.enabled": true,
+                "editor.formatOnSave": true,
+                "editor.rulers": [
+                    120
+                ]
+            },
+            "extensions": [
+                // Code Languages Extensions
+                "yzhang.markdown-all-in-one",
+                "andyyaldoo.vscode-json",
+                "redhat.vscode-yaml",
+                "bungcip.better-toml",
+                "znck.grammarly",
+                // Formatting Extensions
+                "editorconfig.editorconfig",
+                // Git-related Extensions
+                "piotrpalarz.vscode-gitignore-generator",
+                "donjayamanne.githistory",
+                "eamodio.gitlens",
+                // Linting Extensions
+                "xshrim.txt-syntax",
+                // Vim Support
+                "vscodevim.vim"
+            ]
+        }
+    }
+}
