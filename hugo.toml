@@ -1,0 +1,40 @@
+theme = "awesome-identity"
+baseURL = "https://olirafa.github.io/"
+languageCode = 'en-us'
+title = "Rafael Augusto de Oliveira"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/profile.png"
+  firstname = ""
+  lastname = "Rafael Augusto de Oliveira"
+  title = "Lead Software Engineer"
+  bio = """As a dynamic engineering leader with over 8 years of diverse expertise spanning Software Engineering, Data
+  Engineering, Machine Learning, and Architecture, I have consistently driven technical excellence and innovation at the
+  intersection of data and software.
+  My leadership is defined by my ability to lead cross-functional teams through complex, high-impact projects that
+  deliver scalable, resilient, and performance-driven solutions.
+
+  Throughout my career, I have been both a hands-on technical and strategic leader, effectively bridging the gap between
+  Data and Software Engineering teams in fast-paced, data-driven environments.
+  My ability to drive operational efficiency and optimize development processes has enabled organizations to meet and
+  exceed their goals, while ensuring the long-term stability and scalability of production systems.
+
+  I am passionate about fostering a culture of continuous improvement, where technical excellence and innovation
+  thrives, and where teams are empowered to reach their full potential through mentorship and collaborative
+  problem-solving.
+
+  Fell free to connect with me at olirafa@proton.me, or through the social links below.
+  """
+
+## Contacts Configurations
+[params.contacts]
+  email = "olirafa@proton.me"
+  github = "OliRafa"
+  linkedin = "OliRafa"
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2025 Rafael Augusto de Oliveira. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
